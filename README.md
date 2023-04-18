@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sofia</h1>
+<h2 align="center">Hi 👋, I'm Sofia</h2>
 <h3 align="center">I'm currently studying **Java Fullstack Development** at **Generation Brazil**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiamarchetti&label=Profile%20views&color=880eb4&style=plastic" alt="sofiamarchetti" /> </p>
