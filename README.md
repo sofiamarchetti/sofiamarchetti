@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiamarchetti&label=Profile%20views&color=880eb4&style=plastic" alt="sofiamarchetti" /> </p>
 
+- 🌈 Pronouns: she/her || ela/dela
 - ⚡ Fun fact **I'm vegan!**
+
+![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiamarchetti&theme=shades-of-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamarchetti&layout=compact&theme=shades-of-purple&show_icons=true)](https://github.com/sofiamarchetti/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
