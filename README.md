@@ -1,14 +1,10 @@
-<h2 align="center">Hi 👋, I'm Sofia</h2>
 <h3 align="center">I'm currently studying **Java Fullstack Development** at **Generation Brazil**</h3>
-
-
 
 - 🌈 Pronouns: she/her || ela/dela
 - ⚡ Fun fact **I'm vegan!**
 
 ![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiamarchetti&theme=shades-of-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamarchetti&layout=compact&theme=shades-of-purple&show_icons=true)](https://github.com/sofiamarchetti/github-readme-stats)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
