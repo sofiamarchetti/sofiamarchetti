@@ -1,4 +1,4 @@
-<h3 align="center">I'm currently studying **Java Fullstack Development** at **Generation Brazil**</h3>
+<h3>I'm currently studying **Java Fullstack Development** at **Generation Brazil**</h3>
 
 - 🌈 Pronouns: she/her || ela/dela
 - ⚡ Fun fact **I'm vegan!**
