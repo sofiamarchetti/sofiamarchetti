@@ -1,5 +1,5 @@
-<h3>I'm currently studying **Java Fullstack Development** at **Generation Brazil**</h3>
-
+Hello, I'm a Junior Fullstack Java developer, graduated at Generation Brasil. Before finding myself in technology, I graduated in Museology and Pedagogy, working in several fields within Art and Education.
+Being a creative, curious, dedicated person who loves to update constantly, I learned fast to develop using Java, Spring Framework, Git, HTML, CSS, JavaScript, Node.js, TypeScript, React and MySQL.
 - 🌈 Pronouns: she/her || ela/dela
 - ⚡ Fun fact **I'm vegan!**
 
